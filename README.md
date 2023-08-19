@@ -1,4 +1,4 @@
-# LARAVEL / SPA / LIKE DTF.RU
+# LARAVEL
 
 ![This is an image](https://i.imgur.com/NX9crnm.png)
 
